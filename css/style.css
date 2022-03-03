@@ -246,6 +246,7 @@ p.conTit{
     width:100%;
     border-radius: 30px;
     background-color: #fff;
+
     text-align: center;
     color : #333;
     font: 300 18px 'Poppins';
@@ -255,10 +256,10 @@ p.conTit{
     font : 300 12px 'S-Core Dream';
     padding-left: 15px;
 }
-/*hover 시*/
-/* .contents_Btn:hover{ bg:gray 일 때
+/* bg:gray 일 때hover 시 */
+/* .contents_Btn:hover{ 
     border-style: none;
-} */ㄴ
+} */
 .contents_Btn:hover .contents_Btn_up{
     display: none;
 }
@@ -266,4 +267,5 @@ p.conTit{
     display: block;
 }
 
+/*** Exhibition ***/
 
